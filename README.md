@@ -10,5 +10,5 @@ Simply load a GIF using `loadGif(fromData:)` for loading from data or `loadGif(n
 ## Preview  
 Below is a preview of the GIF playback in action:  
 
-![GIF Preview](example.mp4)  
+![example.mp4](https://github.com/dagoatao/GIFView/blob/main/example.mp4))  
 
