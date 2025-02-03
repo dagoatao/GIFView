@@ -14,6 +14,8 @@ Below is a preview of the GIF playback in action:
 [example.mp4](https://github.com/dagoatao/GIFView/blob/main/example.mp4)
 
 ### GIF of GIF
+
 Little faster than original when run on device or simulator
+
 ![example](https://github.com/dagoatao/GIFView/blob/main/example.gif)
 
